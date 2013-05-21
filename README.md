@@ -1,7 +1,7 @@
 ModdedFonts
 ===========
 
-This is a collection of my modded fonts.
+This is a collection of my modded fonts I use everyday.
 
 ![](preview.png)
 
