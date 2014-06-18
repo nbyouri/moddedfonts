@@ -3,6 +3,8 @@ ModdedFonts
 
 This is a collection of my modded fonts I use everyday.
 
+- see the '9' directory for Plan 9 / 9 Front versions.
+
 ![](preview.png)
 
 
