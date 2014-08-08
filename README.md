@@ -13,4 +13,4 @@ If you're on a linux distribution that disables bitmap fonts by default, run thi
 `dpkg-reconfigure fontconfig-config`
 `dpkg-reconfigure fontconfig`
 
-If you want to use my wscons fonts for either OpenBSD or NetBSD, follow the guide [here](http://forums.unixhub.net/showthread.php?tid=552).
+If you want to use my wscons fonts for either OpenBSD or NetBSD, follow the guide [here](http://nixers.net/showthread.php?tid=552&highlight=openbsd).
